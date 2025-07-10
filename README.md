@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Shriya!
+
+🎓 Final-year CSE (Data Science) student  
+💻 Full-Stack Developer | AI Enthusiast  
+🚀 Built Career Catalyst – an AI-powered resume and job matching platform   
+📫 Reach me: shriyacheruvu@gmail.com | [LinkedIn](https://linkedin.com/in/shriyacheruvu)
+
+![Shriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriyacheruvu&show_icons=true&theme=radical)
+
 
 <!--
 **shriyacheruvu/shriyacheruvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
