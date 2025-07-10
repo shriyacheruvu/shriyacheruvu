@@ -5,7 +5,7 @@
 🚀 Built Career Catalyst – an AI-powered resume and job matching platform   
 📫 Reach me: shriyacheruvu@gmail.com | [LinkedIn](https://linkedin.com/in/shriyacheruvu)
 
-![Shriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriyacheruvu&show_icons=true&theme=radical)
+<!--![Shriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shriyacheruvu&show_icons=true&theme=radical) -->
 
 
 <!--
